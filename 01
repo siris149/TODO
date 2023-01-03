@@ -1,12 +1,14 @@
 Designs to try
 
-Leetcode ranking design
+1.Leetcode ranking design
 - how does it works
-- how are updates pushes
+- how are updates pushed
 - number of total users?
-- number of updates happening 
+- freq of updates from user and to user 
 
 
-git svn design
+2. git svn design
 - how are changes maintained internally
 - implement storage and changes data structure
+
+3. Distributed file system
