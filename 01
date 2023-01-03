@@ -1,0 +1,12 @@
+Designs to try
+
+Leetcode ranking design
+- how does it works
+- how are updates pushes
+- number of total users?
+- number of updates happening 
+
+
+git svn design
+- how are changes maintained internally
+- implement storage and changes data structure
